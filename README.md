@@ -2,8 +2,6 @@
 
 # 👋 Olá! Eu sou João Vitor Félix
 
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000e454720e8b24549ad813a5f6&ts=495257&p=fs&cid=1&sig=23eb11571fc6769d1fa0ebe1256c8c4cd0260e0afc3cb22a88e688faf54acaf1&v=0" alt="Banner João Vitor Félix" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Front-end+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
 
 </div>

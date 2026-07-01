@@ -11,7 +11,7 @@ Transformando ideias em interfaces modernas, responsivas e intuitivas.
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/joaofelixprofi%C3%A7%C3%A3o/">
+<a href="https://www.linkedin.com/in/joaofelixprofi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

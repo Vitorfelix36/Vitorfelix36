@@ -171,11 +171,11 @@ Projeto desenvolvido utilizando JavaScript.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joaofelixprofi%C3%A7%C3%A3o/">
+<a href="https://www.linkedin.com/in/joaofelixprofi/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:felixjoaovitor766@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 

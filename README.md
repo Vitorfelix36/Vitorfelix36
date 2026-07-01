@@ -11,7 +11,7 @@ Transformando ideias em interfaces modernas, responsivas e intuitivas.
 </p>
 
 <p>
-<a href="https://www.linkedin.com/in/joaofelixprofi/">
+<a href="https://www.linkedin.com/in/vitorfelixprofi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -165,7 +165,7 @@ Projeto desenvolvido utilizando JavaScript.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/joaofelixprofi/">
+<a href="https://www.linkedin.com/in/vitorfelixprofi/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

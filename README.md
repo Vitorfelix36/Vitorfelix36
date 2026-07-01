@@ -1,62 +1,79 @@
 <div align="center">
 
-# 👋 Olá! Eu sou João Vitor Félix
+<img src="https://i.imgur.com/lXspILD.png" width="100%" alt="Banner João Vitor Félix"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Front-end+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Experiences;Always+Learning+New+Technologies" />
+# 👋 Olá, eu sou João Vitor Félix
+
+### 💻 Desenvolvedor Front-end
+
+<p>
+Transformando ideias em interfaces modernas, responsivas e intuitivas.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/joaofelixprofi%C3%A7%C3%A3o/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vitorfelix36">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Vitorfelix36&style=for-the-badge&color=0e75b6"/>
+
+</p>
 
 </div>
 
 ---
 
-# 💙 Sobre mim
+# 🚀 Sobre mim
 
-🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **UNINOVE**
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** — **UNINOVE**
 
-📚 Estudante de **Desenvolvimento Full Stack Python** pela **EBAC**
+📚 Estudante de **Desenvolvimento Full Stack Python** — **EBAC**
 
 💼 Desenvolvedor Front-end Freelancer
 
-🚀 Buscando minha primeira oportunidade como Desenvolvedor Front-end
+🌎 Buscando minha primeira oportunidade como Desenvolvedor Front-end.
 
-💡 Gosto de transformar ideias em interfaces modernas, responsivas e intuitivas.
-
-Sempre estou estudando novas tecnologias e buscando evoluir através de projetos práticos.
+💙 Gosto de criar interfaces modernas, organizadas e responsivas, sempre buscando evoluir através de projetos práticos e aprendizado contínuo.
 
 ---
 
-# 🚀 Tecnologias
+# 🛠 Tecnologias
 
-<div align="center">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,git,github,python,mysql,vscode,figma"/>
 
-</div>
+</p>
 
 ---
 
 # 💼 Projeto Freelancer
 
-### 🌐 Website Institucional
+## 🌐 Website Institucional
 
 Desenvolvimento de um website institucional para uma empresa de Social Media utilizando HTML, CSS e JavaScript.
 
 ### Objetivos
 
-- Layout moderno
+- Interface moderna
 - Responsividade
-- Boa experiência do usuário
 - Organização do código
+- Boa experiência do usuário
 - Performance
 
 ---
 
 # ⭐ Projetos em Destaque
 
-## 🏍️ EBAC Motors
+### 🏍️ EBAC Motors
 
-Landing Page desenvolvida durante o curso Full Stack Python.
+Landing Page desenvolvida durante o curso da EBAC.
 
-Tecnologias:
+**Tecnologias**
 
 - HTML5
 - CSS3
@@ -64,11 +81,11 @@ Tecnologias:
 
 ---
 
-## 🎮 Website Canal de Games
+### 🎮 Website Canal de Games
 
-Projeto desenvolvido para divulgação de lives e conteúdos gamers.
+Landing Page criada para divulgação de lives e conteúdo gamer.
 
-Tecnologias:
+**Tecnologias**
 
 - HTML
 - CSS
@@ -77,13 +94,13 @@ Tecnologias:
 
 ---
 
-## 📰 Blog Kawe
+### 📰 Blog Kawe
 
-Landing Page responsiva desenvolvida durante os estudos de Front-end.
+Landing Page desenvolvida durante meus estudos de Front-end.
 
 ---
 
-## 🧮 Calculadora de Médias
+### 🧮 Calculadora de Médias
 
 Projeto desenvolvido utilizando JavaScript.
 
@@ -91,37 +108,24 @@ Projeto desenvolvido utilizando JavaScript.
 
 # 📚 Atualmente estudando
 
-✔ HTML5
-
-✔ CSS3
-
-✔ JavaScript
-
-✔ Bootstrap
-
-✔ Git
-
-✔ GitHub
-
-✔ Python
-
-✔ SQL
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Git
+- GitHub
+- Python
+- SQL
 
 ---
 
 # 🎯 Objetivos Profissionais
 
-✅ Conquistar minha primeira oportunidade como Desenvolvedor Front-end
-
-✅ Evoluir em JavaScript Moderno
-
-✅ Aprender React
-
-✅ Aprender TypeScript
-
-✅ Desenvolver aplicações Full Stack
-
-✅ Contribuir para projetos Open Source
+- 🚀 Conquistar minha primeira oportunidade como Desenvolvedor Front-end.
+- ⚛️ Aprender React.
+- 📘 Aprender TypeScript.
+- 🔥 Desenvolver aplicações Full Stack.
+- 🤝 Contribuir para projetos Open Source.
 
 ---
 
@@ -129,29 +133,19 @@ Projeto desenvolvido utilizando JavaScript.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorfelix36&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vitorfelix36&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorfelix36&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorfelix36&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 Contribuições
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Vitorfelix36&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vitorfelix36&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -167,20 +161,16 @@ Projeto desenvolvido utilizando JavaScript.
 
 ---
 
-# 🌎 Vamos nos conectar
+# 📬 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joaofelixprofi/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:felixjoaovitor766@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Vitorfelix36">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="mailto: felixjoaovitor766@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -189,10 +179,8 @@ Projeto desenvolvido utilizando JavaScript.
 
 <div align="center">
 
-## 💙 "Código não é apenas escrever linhas. É construir soluções que melhoram a vida das pessoas."
+## ⭐ Obrigado pela visita!
 
-### Obrigado pela visita!
-
-⭐ Se gostar de algum projeto, fique à vontade para deixar uma estrela.
+*"A tecnologia muda todos os dias. Meu objetivo é evoluir junto com ela, criando soluções que façam a diferença."*
 
 </div>
